@@ -1,16 +1,30 @@
-# z_planner
+# Z Planner
 
-A new Flutter project.
+**Z Planner** is a productivity and time-tracking app designed to help you monitor how much time you spend on tasks and activities. It is inspired by those days where we lose track of time and suddenly find ourselves asking where the day went. 
 
-## Getting Started
+* My very first app. The pioneer of Undebugged App Series *
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Time Tracking:** Start, pause, and stop timers for any activity.
+- **Activity Management:** Organize your tasks and categorize them.
+- **Analytics:** View detailed reports and charts showing how you spend your time.
+- **Simple UI:** Easy-to-use interface for quick task tracking.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+| Home Screen | Add activity | 
+|--------------|-----------|
+| ![homescreen](./screenshots/homescreen.jpg) | ![Add activity](./screenshots/addactivity.jpg) |
+
+| Goal Reports | Daily Reports |
+|--------------|--------------|
+| ![Login](./screenshots/login.png) |  ![Daily Reports](./screenshots/Daily Reports.png) |
+
+## Demo Video
+![Demo](./demo/demo.mp4)
+
+
+
