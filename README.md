@@ -21,10 +21,11 @@
 
 | Goal Reports | Daily Reports |
 |--------------|--------------|
-| ![Login](./screenshots/login.png) |  ![Daily Reports](./screenshots/Daily Reports.png) |
+| ![Login](./screenshots/goalreports.jpg) |  ![Daily Reports](./screenshots/dailyreports.jpg) |
 
 ## Demo Video
 ![Demo](./demo/demo.mp4)
+
 
 
 
